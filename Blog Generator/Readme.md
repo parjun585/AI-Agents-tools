@@ -80,3 +80,6 @@ Your browser should open automatically to `http://localhost:8501` with the blog 
 
 Alternatively, you can deploy to other platforms:
 
+## Step 3 : Modified added Streamlit sidebars to configure the openai-api keys.
+
+I will be trying to add the other models so that one can use Groq API keys and use other models also.
