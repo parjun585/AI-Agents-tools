@@ -83,3 +83,6 @@ Alternatively, you can deploy to other platforms:
 ## Step 3 : Modified added Streamlit sidebars to configure the openai-api keys.
 
 I will be trying to add the other models so that one can use Groq API keys and use other models also.
+
+![image](https://github.com/user-attachments/assets/ff046b4d-a324-4928-9051-d688c762ce49)
+
