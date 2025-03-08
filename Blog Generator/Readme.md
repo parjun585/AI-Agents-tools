@@ -86,3 +86,9 @@ I will be trying to add the other models so that one can use Groq API keys and u
 
 ![image](https://github.com/user-attachments/assets/ff046b4d-a324-4928-9051-d688c762ce49)
 
+
+## Added a second iteration to the first made bloggenerator so that one can use Groq API to use other models. Check out bloggenpart2.py
+
+![image](https://github.com/user-attachments/assets/98bdf127-a749-484b-9c2c-9305994eef3e)
+
+
